@@ -8,3 +8,7 @@ Screenshot 1
 Screenshot 2
 
 ![Screenshot (422)](https://github.com/Akmal1796/Stop-Watch/assets/105329445/79375765-2e7f-421c-9953-5a6cd2b1879c)
+
+Video Preview
+
+https://github.com/Akmal1796/Stop-Watch/assets/105329445/15d0a51d-7be5-4ad8-85fe-c4346f1a4282
